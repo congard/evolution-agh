@@ -5,7 +5,7 @@ of Object Orientated Programming at the AGH University of Science and Technology
 
 Project description: [apohllo/obiektowe-lab/proj1](https://github.com/apohllo/obiektowe-lab/tree/f37bdcef7cdda5b7a933cf93f87ec78e28a018e5/proj1)
 
-Technology: Java (simulation), Kotlin (JavaFX GUI)
+Technology: Java 17 (simulation), Kotlin (JavaFX GUI)
 
 Libraries used:
 
