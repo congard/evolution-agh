@@ -130,6 +130,6 @@ Libraries used:
   - [x] `CellsBorderPane`
   - [x] `AnimalsBorderPane`
 - [ ] CSS styles for `Alert`
-- [ ] Tests for math
+- [x] Tests for math
 
 **Disclaimer**: I ran out of time, so you might find the code a bit undocumented
