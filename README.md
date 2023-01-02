@@ -37,6 +37,10 @@ Libraries used:
 
 ![WorldWidget_scale](images/EvolutionWindow_WorldWidget_scale.png)
 
+## Notes
+
+- On Linux you may need to add `-Dprism.forceGPU=true` JVM option to improve GUI performance
+
 ## TODO
 
 ### simulation
